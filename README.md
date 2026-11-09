@@ -4,7 +4,7 @@ End-to-end analytics project using **Excel, SQL Server and Power BI** on SuperSt
 (46,990 order lines across 22,994 distinct orders, 2017-2020).
 
 ## Dashboard
-![Dashboard](filess.png)
+![Dashboard](Filess.PNG)
 
 ## Project Overview
 The goal was to turn raw commercial data into a reliable reporting system that shows
